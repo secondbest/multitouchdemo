@@ -1,0 +1,1 @@
+C:\Users\Jan\AndroidstudioProjects\multitouchdemo\app\build\intermediates\classes\debug
