@@ -17,6 +17,7 @@ public class MultiTouch extends Activity implements OnTouchListener {
 
 	// possible touch states
 	final static int NONE = 0;
+    
 	final static int DRAG = 1;
 	final static int ZOOM = 2;
 	int touchState = NONE;
